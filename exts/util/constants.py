@@ -64,7 +64,7 @@ ASCII_TITLE = """
   .oooooo.             .o8                       .   
  d8P'  `Y8b           "888                     .o8   
 888      888 oooo d8b  888oooo.  oooo    ooo .o888oo      By Nxrmqlly
-888      888 `888""8P  d88' `88b  `88.  .8'    888        https://github.com/nxrmqlly/Orbyt
+888      888 `888""8P  d88' `88b  `88.  .8'    888        https://github.com/nxrmqlly/Orbyt :pray:
 888      888  888      888   888   `88..8'     888
 `88b    d88'  888      888   888    `888'      888 .      Copyright (C) 2023-present Ritam Das | AGPL v3
  `Y8bood8P'  d888b     `Y8bod8P'     .8'       "888" 
